@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094322148510",
+    "project_id": "emmalahw06",
+    "storage_bucket": "emmalahw06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094322148510:android:5b6adc81102540f10ed78f",
+        "android_client_info": {
+          "package_name": "com.example.emmala_hw06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094322148510-1gf72s705n9r1o2jalut1n7q443sjopm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8zq86bN66osO8suEb-6cEdvhp68JsVCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094322148510-1gf72s705n9r1o2jalut1n7q443sjopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

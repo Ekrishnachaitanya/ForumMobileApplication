@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Emmala_HW06</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="loginLabel">Login</string>
+    <string name="logoutLabel">Logout</string>
+    <string name="cancelLabel">Cancel</string>
+    <string name="nameLabel">Name</string>
+    <string name="newAccountLabel">Create New Account</string>
+    <string name="submitLabel">Submit</string>
+    <string name="newForum">New Forum</string>
+    <string name="emptyName">Enter Name</string>
+    <string name="forumsLabel">forums</string>
+    <string name="forumsTitle">Forums</string>
+    <string name="emptyEmail">Enter Email Id</string>
+    <string name="emptyPassword">Enter Password</string>
+    <string name="forumTitleHint">Forum Title</string>
+    <string name="emptyForumTitle">Enter Forum Title</string>
+    <string name="emptyForumDescription">Enter Forum Description</string>
+    <string name="emptyPost">Enter Post Characters </string>
+    <string name="forumDescriptionHint">Forum Description</string>
+    <string name="okLabel">Ok</string>
+    <string name="postLabel">Post</string>
+    <string name="commentHint">Write Comment</string>
+</resources>
